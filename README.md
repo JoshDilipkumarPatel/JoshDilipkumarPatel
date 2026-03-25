@@ -83,7 +83,7 @@ I build AI systems that **think**, **remember**, and **generate** — from fully
 ---
 Investigated the causal impact of 4-bit quantization on hallucination rates in retrieval-augmented language models
 by designing a controlled RAG evaluation framework with calibrated ensemble-based reliability scoring.
----
+
 ```
 Hypothesis: Does INT4 quantization degrade contextual faithfulness in RAG models
             under low-resource deployment constraints?
